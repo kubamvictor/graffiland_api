@@ -5,9 +5,9 @@ on:
 
 
 env:
-  AZURE_FUNCTIONAPP_NAME: ''
+  AZURE_FUNCTIONAPP_NAME: 'graffilandapi'
   AZURE_FUNCTIONAPP_PACKAGE_PATH: 'azure_function_app'
-  PYTHON_VERSION: '3.9'
+  PYTHON_VERSION: '3.10'
 
 
 jobs:
